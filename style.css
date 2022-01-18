@@ -124,6 +124,9 @@ input::-webkit-inner-spin-button {
         width: 60px;
         height: 60px;
     }
+    .plus_button button{
+        width: 60px;
+    }
     .large{
         width: 128px !important;
     }
