@@ -111,6 +111,11 @@ input::-webkit-inner-spin-button {
     color: black;
     font-size: 70px;
 }
+@media(max-width: 1024px){
+    .numbers_in_up p{
+        font-size: 40px;
+    }
+}
 @media (max-width: 430px){
     .main_tellephone{
         width: 300px;
